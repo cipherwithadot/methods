@@ -1,7 +1,9 @@
-<h1 align="center">Venom</h1>
-<a href="https://github.com/pndaboi/venom">
+<h1 align="center">
+	<a href="https://github.com/pndaboi/venom">
 	<img src="https://i.imgur.com/9l4pHEN.png" alt="Logo" width="120" height="120">
 </a>
+	Venom
+</h1>
 <h4 align="center">Collection Of Discord Hacking Tools / Fun Stuff / Exploits That Is Completely Made Using Python.</h4>
 <p align="center">
 	<a href="https://github.com/pndaboi/Venom/blob/main/LICENSE"><img src="https://img.shields.io/github/license/I2rys/ODiscord?style=flat-square"></img></a>
