@@ -1,3 +1,6 @@
+<h2 align="center">I (@PndaBoi) Do Not Own The Code Shown Here. This Is From: <a href="https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker"> https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker
+  </a>
+</h2>
 <p align="center">
 <img src=https://img.shields.io/github/stars/logicguy1/Discord-Nitro-Generator-and-Checker?style=for-the-badge&logo=appveyor&color=blue />
 <img src=https://img.shields.io/github/forks/logicguy1/Discord-Nitro-Generator-and-Checker?style=for-the-badge&logo=appveyor&color=blue />
