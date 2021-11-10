@@ -1,4 +1,4 @@
-The Code Is Not By Me (@PndaBoi) And All The Credits Go To: <a href="https://github.com/lnxcz/nitro-generator"> https://github.com/lnxcz/nitro-generator </a>
+<h1 align="center">The Code Is Not By Me (@PndaBoi) And All The Credits Go To: <a href="https://github.com/lnxcz/nitro-generator"> https://github.com/lnxcz/nitro-generator </a></h1>
   
 
 # Automatic Proxy scraper and Proxy-rotating Nitro Generator.
