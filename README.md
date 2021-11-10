@@ -16,4 +16,4 @@ MIT © PndaBoi
 
 Inspired By ODiscord By I2rys 
 <br>
-[His Repo](https://github.com/I2rys/ODiscord/)
+[https://github.com/I2rys/ODiscord/](https://github.com/I2rys/ODiscord/)
