@@ -15,4 +15,4 @@ Don't request to much on Discord's API because your account might get limited.
 MIT © PndaBoi
 
 Inspired By ODiscord By I2rys 
-[here](https://github.com/I2rys/ODiscord/)
+[His Repo here](https://github.com/I2rys/ODiscord/)
