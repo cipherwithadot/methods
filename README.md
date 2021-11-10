@@ -36,7 +36,6 @@ Don't request to much on Discord's API because your account might get limited.
 License
 MIT © PndaBoi
 </h2>
-<hr>
 <h3 align="center">
 Inspired By ODiscord By I2rys 
 <br>
