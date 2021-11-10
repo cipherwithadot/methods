@@ -1,4 +1,4 @@
-### Do this trick first [https://github.com/PndaBoi/Venom/blob/main/Extra:%20Methods/Using%20emoji%20on%20other%20servers%20without%20nitro.txt]https://github.com/PndaBoi/Venom/blob/main/Extra:%20Methods/Using%20emoji%20on%20other%20servers%20without%20nitro.txt
+### Do this trick first [https://github.com/PndaBoi/Venom/blob/main/Extra:%20Methods/Using%20emoji%20on%20other%20servers%20without%20nitro.txt ]https://github.com/PndaBoi/Venom/blob/main/Extra:%20Methods/Using%20emoji%20on%20other%20servers%20without%20nitro.txt
 
 1.After you paste the GIF link in the channel.
 2.Hover your mouse in the GIF then click the star to favorite the GIF.
