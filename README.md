@@ -31,7 +31,7 @@ Note
 <h3 align="center">
 Don't request to much on Discord's API because your account might get limited.
 </h3>
-
+<hr>
 <h2 align="center">
 License
 MIT © PndaBoi
