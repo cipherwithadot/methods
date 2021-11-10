@@ -7,3 +7,11 @@
 
 ## Contributing
 Well, I'm running out of ideas. So If you have some ideas that you want to suggest please make a "Pull requests" [here](https://github.com/pndaboi/Venom/pulls) and if you found some bugs please make an issue [here](https://github.com/pndaboi/Venom/issues). Every contribution will be appreciated,
+
+## Note
+Don't request to much on Discord's API because your account might get limited.
+
+## License
+MIT © PndaBoi
+
+Inspired By ODiscord By I2rys
