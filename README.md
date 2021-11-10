@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://img.shields.io/github/contributors/pndaboi/Venom.svg?style=for-the-badge"/>
   <img src="https://img.shields.io/github/forks/pndaboi/Venom.svg?style=for-the-badge"/>
@@ -14,8 +13,7 @@
 <h1 align="center">Venom</h>
 <h3 align="center">
     Collection Of Discord Hacking Tools / Fun Stuff / Exploits That Is Completely Made Using Python.
-    <br />
-    <br />
+<br>
     <a href="https://github.com/pndaboi/venom/issues">Report Bug</a>
     ·
     <a href="https://github.com/pndaboi/venom/issues">Request Feature</a>
@@ -24,15 +22,22 @@
 
 
 <h2 align="center"> Contributing </h2>
-
-Well, I'm running out of ideas. So If you have some ideas that you want to suggest please make a "Pull requests" [here](https://github.com/pndaboi/Venom/pulls) and if you found some bugs please make an issue [here](https://github.com/pndaboi/Venom/issues). Every contribution will be appreciated,
-
-## Note
+<h3 align="center">
+Well, I'm running out of ideas. So If you have some ideas that you want to suggest please make a Pull request here: <a href="https://github.com/pndaboi/Venom/pulls"> https://github.com/pndaboi/Venom/pulls </a> and if you found some bugs please make an issue Here: <a href="https://github.com/pndaboi/Venom/issues">https://github.com/pndaboi/Venom/pulls. </a> Every contribution will be appreciated,
+</h3>
+<h2 align="center">
+Note
+</h2>
+<h3 align="center">
 Don't request to much on Discord's API because your account might get limited.
+</h3>
 
-## License
+<h2 align="center">
+License
 MIT © PndaBoi
-
+</h2>
+<h3 align="center">
 Inspired By ODiscord By I2rys 
 <br>
-[https://github.com/I2rys/ODiscord/](https://github.com/I2rys/ODiscord/)
+<a href="https://github.com/I2rys/ODiscord/"> https://github.com/I2rys/ODiscord/ </a>
+</h3>
