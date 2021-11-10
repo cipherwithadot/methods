@@ -1,4 +1,4 @@
-Note: This won't work in discord browser, only the uhh application only.
+### Note: This won't work in discord browser, only the uhh application only.
 
 1.Install discord. https://discord.com/ & login
 
@@ -14,4 +14,6 @@ Note: This won't work in discord browser, only the uhh application only.
 
 7.Paste it on the guild's channel. :)
 
-From: https://github.com/I2rys/ODiscord/blob/main/Using%20emoji%20on%20other%20servers%20without%20nitro.txt
+<hr>
+
+### From: https://github.com/I2rys/ODiscord/blob/main/Using%20emoji%20on%20other%20servers%20without%20nitro.txt
