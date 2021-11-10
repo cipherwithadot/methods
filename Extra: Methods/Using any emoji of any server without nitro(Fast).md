@@ -1,5 +1,5 @@
 ### Do this trick first <a href="https://github.com/PndaBoi/Venom/blob/main/Extra:%20Methods/Using%20emoji%20on%20other%20servers%20without%20nitro.txt">Click Here!</a>
 
-1.After you paste the GIF link in the channel.
-2.Hover your mouse in the GIF then click the star to favorite the GIF.
-3.Your done! To use the GIF again without opening inspect element just go to the "GIF" "Favorites" then click the GIF.
+1. After you paste the GIF link in the channel.
+2. Hover your mouse in the GIF then click the star to favorite the GIF.
+3. Your done! To use the GIF again without opening inspect element just go to the "GIF" "Favorites" then click the GIF.
