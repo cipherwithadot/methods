@@ -24,7 +24,7 @@
 
 <h2 align="center"> Contributing </h2>
 <h3 align="center">
-Well, I'm running out of ideas. So If you have some ideas that you want to suggest please make a Pull request here: <a href="https://github.com/pndaboi/Venom/pulls"> https://github.com/pndaboi/Venom/pulls </a> and if you found some bugs please make an issue Here: <a href="https://github.com/pndaboi/Venom/issues">https://github.com/pndaboi/Venom/pulls. </a> Every contribution will be appreciated,
+Well, At one point or another I will run out of ideas. So If you have some ideas that you want to suggest please make a Pull request here: <a href="https://github.com/pndaboi/Venom/pulls"> https://github.com/pndaboi/Venom/pulls </a> and if you found some bugs please make an issue Here: <a href="https://github.com/pndaboi/Venom/issues">https://github.com/pndaboi/Venom/pulls. </a> Every contribution will be appreciated,
 </h3>
 <h2 align="center">
 Note
