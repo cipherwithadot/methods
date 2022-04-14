@@ -1,1 +1,0 @@
-### Just Open Inspect and go to console paste this code: document.designMode = 'on'
