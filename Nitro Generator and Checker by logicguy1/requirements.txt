@@ -1,3 +1,0 @@
-requests
-discord_webhook
-colored
