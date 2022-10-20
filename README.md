@@ -24,7 +24,7 @@
 
 <h2 align="center"> Contributing </h2>
 <h3 align="center">
-Well, At one point or another I will run out of ideas. So If you have some ideas that you want to suggest please make a Pull request here: <a href="https://github.com/cipherwithadot/Methods/pulls"> https://github.com/Cipher-GF/Methods/pulls </a> and if you found some bugs please make an issue Here: <a href="https://github.com/cipherwithadot/Methods/issues">https://github.com/Cipher-GF/Methods/pulls. </a> Every contribution will be appreciated,
+Well, At one point or another I will run out of ideas. So If you have some ideas that you want to suggest please make a Pull request here: <a href="https://github.com/cipherwithadot/Methods/pulls"> https://github.com/cipherwithadot/Methods/pulls </a> and if you found some bugs please make an issue Here: <a href="https://github.com/cipherwithadot/Methods/issues">https://github.com/cipherwithadot/Methods/pulls. </a> Every contribution will be appreciated,
 </h3>
 <h2 align="center">
 Note
